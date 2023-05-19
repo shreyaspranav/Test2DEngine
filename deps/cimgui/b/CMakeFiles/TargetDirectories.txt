@@ -1,0 +1,7 @@
+C:/Vinay/OneDrive/Desktop/Test2DEngine/deps/cimgui/b/CMakeFiles/cimgui.dir
+C:/Vinay/OneDrive/Desktop/Test2DEngine/deps/cimgui/b/CMakeFiles/edit_cache.dir
+C:/Vinay/OneDrive/Desktop/Test2DEngine/deps/cimgui/b/CMakeFiles/rebuild_cache.dir
+C:/Vinay/OneDrive/Desktop/Test2DEngine/deps/cimgui/b/CMakeFiles/list_install_components.dir
+C:/Vinay/OneDrive/Desktop/Test2DEngine/deps/cimgui/b/CMakeFiles/install.dir
+C:/Vinay/OneDrive/Desktop/Test2DEngine/deps/cimgui/b/CMakeFiles/install/local.dir
+C:/Vinay/OneDrive/Desktop/Test2DEngine/deps/cimgui/b/CMakeFiles/install/strip.dir

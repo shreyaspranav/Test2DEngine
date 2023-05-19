@@ -1,0 +1,3 @@
+D:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\cimgui.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\cimgui.dir/objects.a @CMakeFiles\cimgui.dir\objects1.rsp
+D:\mingw64\bin\c++.exe -shared -o cimgui.dll -Wl,--out-implib,libcimgui.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\cimgui.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\cimgui.dir\linkLibs.rsp
